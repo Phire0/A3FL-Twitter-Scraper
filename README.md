@@ -21,6 +21,8 @@ git clone https://github.com/Phire0/A3FL-Twitter-Scraper.git
 
 After an initial setup involving Google API authentication, this tool can be left to run on its own.
 
+To use this application as is, you must provide the tool with a Google token.json and credentials.json file so that your API usage can be authenticated. You can read about this here: https://developers.google.com/identity/protocols/oauth2/service-account
+
 ## Contact
 
 Jamie Connelly – [@Phire0](https://twitter.com/Phire0)

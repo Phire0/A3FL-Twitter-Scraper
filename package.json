@@ -1,0 +1,21 @@
+{
+  "name": "fl-twitter-scraper",
+  "version": "1.0.0",
+  "description": "Scrape Twitter ad phone numbers from A3FL",
+  "main": "index.js",
+  "scripts": {
+    "start": "forever index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamie Connelly",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "forever": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "googleapis": "^52.1.0",
+    "jsdom": "^16.2.2",
+    "readline": "^1.3.0"
+  }
+}
