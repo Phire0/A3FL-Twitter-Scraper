@@ -26,7 +26,7 @@ const TOKEN_PATH = "token.json";
 const CREDENTIALS_PATH = "credentials.json";
 
 // Google Sheet ID
-const SHEET_ID = "1u1ozyEMTgpBCkWMv5wcGmHqyZTH1r0BZZrpEdI77glM";
+const SHEET_ID = "";
 
 // How often will we execute this
 const YIELD_TIME = 600000; // time in miliseconds, default 10 minutes
