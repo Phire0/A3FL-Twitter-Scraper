@@ -10,11 +10,24 @@ These are the instructions on how you can get this package up and running on you
 
 You should clone this repository locally and deploy somewhere which can support a constantly running application.
 
+### Prerequisites
+
+If you are installing using npm, you should have the latest version of npm which can be obtained by running the following:
+
+```sh
+npm install npm@latest -g
+```
+
 ### Installation
 
 Clone repository using Git:
 ```sh
 git clone https://github.com/Phire0/A3FL-Twitter-Scraper.git
+```
+
+Install dependencies using npm:
+```sh
+npm install
 ```
 
 ## Usage
