@@ -6,7 +6,7 @@ For metrics, this tool was being hosted by me from the 24th of June 2020, to the
 
 ## Getting Started
 
-These are the instructions on how you can get this package up and running on your project locally.
+These are the instructions on how you can get this project up and running locally.
 
 You should clone this repository locally and deploy somewhere which can support a constantly running application.
 
